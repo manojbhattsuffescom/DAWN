@@ -12,5 +12,5 @@ npm run dev -- --reset
 
 
 COMMANDS
-  app env pull  Pull app and extensions environment variables
-  app env show  Display app and extensions environment variables
+   npm run shopify app env pull  Pull app and extensions environment variables
+    npm run shopify app env show  Display app and extensions environment variables
