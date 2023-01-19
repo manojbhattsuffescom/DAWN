@@ -2,7 +2,7 @@
 dawn_theme
 
 npm run dev
-npm run shopify app
+npm run shopify app     display all command
 npm ngrok auth
 npm run shopify ngrok auth
 npm run shopify app dev
